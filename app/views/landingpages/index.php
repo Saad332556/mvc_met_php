@@ -8,6 +8,6 @@
         <a href="<?= URLROOT; ?>/lessen/index">Lesrooster weergeven</a>
     </li>
     <li>
-        <a href="<?= URLROOT; ?>/magazijn_jamin/index">Overzicht Magazijn Jamin</a>
+        <a href="<?= URLROOT; ?>/magazijnen/index">Overzicht Magazijn Jamin</a>
     </li>
 </ul>
